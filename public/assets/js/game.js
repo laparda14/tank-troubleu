@@ -8,8 +8,8 @@ let canFire = true
 let bullets = 0
 let bulletDecay = 7000
 let bulletSpeed = 190
-let fireTime = 200
-let maxBullets = 5
+let fireTime = 20
+let maxBullets = 50
 let specialBullets = {
   frag: {},
   fragDestroy: false,
